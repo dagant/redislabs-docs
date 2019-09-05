@@ -38,7 +38,7 @@ Redis Labs developed and certified these modules for use with Redis Enterprise S
 
 - [RedisBloom]({{< relref "/rs/developing/modules/bloom-filters.md" >}})
     - Enables RS to have a scalable bloom filter as a data type. Bloom
-      filters are probabilistic data structures that do a very good job at
+      filters are probabilistic data structures that do a very good job atttttttt
       quickly determining if something is contained within a set.
 - [RedisGraph](https://oss.redislabs.com/redisgraph/#quickstart)
     - RedisGraph is the first queryable Property Graph database to use sparse
